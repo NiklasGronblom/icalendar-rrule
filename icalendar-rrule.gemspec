@@ -26,7 +26,7 @@ Gem::Specification.new do |gem_spec|
 
   gem_spec.required_ruby_version = '>= 2.5'
 
-  gem_spec.add_dependency 'activesupport', '~> 5.1'
+  gem_spec.add_dependency 'activesupport', '~> 6.0'
   gem_spec.add_dependency 'icalendar', '~> 2.4'
   gem_spec.add_dependency 'ice_cube', '~> 0.16'
 
